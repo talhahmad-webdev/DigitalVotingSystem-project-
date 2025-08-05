@@ -21,6 +21,7 @@ This is a simple Digital Voting System built with Arduino Uno, RFID (MFRC522), a
 
 ## 📂 File Included
 - `digital_voting_system.ino` — Main Arduino code
+- `Project report` 
 
 
 
