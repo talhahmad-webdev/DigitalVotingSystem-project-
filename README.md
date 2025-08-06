@@ -39,5 +39,4 @@ This is a simple Digital Voting System built with Arduino Uno, RFID (MFRC522), a
 
 ## 👤 Author
 **TALHA AHMAD**
-**Talha Ahmad**  
 BSCS Student – Lahore Garrison University  
